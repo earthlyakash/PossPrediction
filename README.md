@@ -8,4 +8,5 @@ in this project there are two .exe files
    with this exe give its a directory it will predict accordinally, you can choose bulk directories or single directory.
 
 Download link Drive:
-https://drive.google.com/file/d/1TSsdUKSYsfOLSBvw4ppnA_vNvxVeL_yW/view?usp=sharing
+https://drive.google.com/file/d/10ti0PMSJGD7bkqvK0zBYbyCBUaEpvMgF/view?usp=drive_link
+https://drive.google.com/file/d/13bA_hh_S3kJRANAvttuFqjfJ3Cp0eAQN/view?usp=drive_link
