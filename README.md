@@ -17,6 +17,8 @@ c++ installed in your pc
 
 if already install and still get error or not running exe then
 
+download extract msvcp 140_1.dll
+
 extract msvcp 140_1.zip
 copy msvcp140_1.dll; to copy path "C:\Windows\System32" & "C:\Windows\SysWOW64"
 
